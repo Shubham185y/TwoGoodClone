@@ -34,7 +34,7 @@ html,body{
 }
 
 #nav-part1 {
-    height: 82px;
+    height: 60px;
     overflow: hidden;
 }
 
@@ -43,11 +43,11 @@ html,body{
 }
 #nav-part1 svg {
     display: block;
-    height: 82px;
-    width: 90px;
+    height: 60px;
+    width: 70px;
 }
 #nav #twogoodlogo{
-    height: 60px;
+    height: 40px;
     margin-left: -8px;
 }
 #nav-part2 #links a {
